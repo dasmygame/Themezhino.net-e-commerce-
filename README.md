@@ -5,3 +5,4 @@ E-commerce site made generic for local e-commerce businesses
 
 [![Screen-Shot-2019-06-26-at-12-14-39-AM.png](https://i.postimg.cc/fyW3hcY0/Screen-Shot-2019-06-26-at-12-14-39-AM.png)](https://postimg.cc/yg56mSQV)
 [![Screen-Shot-2019-06-26-at-12-15-23-AM.png](https://i.postimg.cc/KvH1dgjR/Screen-Shot-2019-06-26-at-12-15-23-AM.png)](https://postimg.cc/JGj7X0bL)
+[![Screen-Shot-2019-06-26-at-12-32-33-AM.png](https://i.postimg.cc/NjKdcTxV/Screen-Shot-2019-06-26-at-12-32-33-AM.png)](https://postimg.cc/yDzmhDtX)
